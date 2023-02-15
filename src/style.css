@@ -1,0 +1,66 @@
+.backgroung{
+    width:100%;
+    
+    text-align: center;
+    justify-content: center;
+}
+.BackgroundColor{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    background-color: rgb(229, 229, 229);
+    border-radius: 5%;
+}
+.circle{
+    width:300px;
+    height: 300px;
+    font-size: 25px;
+    /* font-family:  monospace; */
+    
+    Margin-left:50px;
+    background-color: orange;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.circle1{
+    width:300px;
+    height: 300px;
+    font-size: 25px;
+    
+    Margin-left:50px;
+    background-color: aqua;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.circle button{
+    border: none;
+    background-color: transparent;
+    text-decoration:underline;
+}
+.circle1 button{
+    border: none;
+    background-color: transparent;
+    text-decoration:underline;
+}
+.ChangeColor{
+    margin-left: 150px;
+   
+    /* text-align: center; */
+    
+}
+.ChangeColor button{
+    width:200px;
+    height: 30px;
+    background-color: aqua;
+    border:none;
+    border-radius: 2px;
+    box-shadow: 2px 2px;
+}
+.Red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
